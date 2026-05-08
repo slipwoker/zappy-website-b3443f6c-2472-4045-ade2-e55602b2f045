@@ -1,0 +1,69 @@
+# avocdo israel — Generative Engine Optimization Map
+
+> An online sales website for a content creation course, aimed at teaching people how to create digital content. The business focuses on education in the digital content space, likely targeting aspiring creators, marketers, or entrepreneurs who want to develop their content creation skills.
+
+---
+
+## Pages
+
+### בית
+https://avocdo-israel-b3443f6c.zappy5.app
+An online sales website for a content creation course, aimed at teaching people how to create digital content. The business focuses on education in the digital 
+
+## Legal & Policy
+
+### Privacy Policy
+https://avocdo-israel-b3443f6c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://avocdo-israel-b3443f6c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://avocdo-israel-b3443f6c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://avocdo-israel-b3443f6c.zappy5.app
+- Endpoint: https://avocdo-israel-b3443f6c.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About avocdo israel
+An online sales website for a content creation course, aimed at teaching people how to create digital content. The business focuses on education in the digital content space, likely targeting aspiring creators, marketers, or entrepreneurs who want to develop their content creation skills.
+
+## Services/Products
+- קורס ליצירת תוכן
+
+## Target Audience
+- חובבי מדיה חברתית
+- יוצרי תוכן מתחילים
+- אנשי שיווק דיגיטלי
+
+## Industry
+חינוך דיגיטלי / יצירת תוכן
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://avocdo-israel-b3443f6c.zappy5.app/sitemap.xml
+- Robots: https://avocdo-israel-b3443f6c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://avocdo-israel-b3443f6c.zappy5.app/llms-full.txt
