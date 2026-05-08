@@ -59,15 +59,14 @@ Description: An online sales website for a content creation course, aimed at tea
 
 - תכונות
 - יתרונות
-- המלצות
 - גלריה
+- המלצות
 - נתונים
 
 
 
 
-
-צור קשר
+- צור קשר
 
 
 
