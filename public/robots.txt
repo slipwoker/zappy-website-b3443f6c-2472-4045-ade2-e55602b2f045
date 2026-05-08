@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://avocdo-israel-b3443f6c.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml

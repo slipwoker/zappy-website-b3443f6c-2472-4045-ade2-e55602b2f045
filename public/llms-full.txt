@@ -2,13 +2,13 @@
 
 An online sales website for a content creation course, aimed at teaching people how to create digital content. The business focuses on education in the digital content space, likely targeting aspiring creators, marketers, or entrepreneurs who want to develop their content creation skills.
 
-Source: https://avocdo-israel-b3443f6c.zappy5.app
+Source: https://example.com
 
 ---
 
 ## קורס יצירת תוכן למתחילים — avocdo israel
 
-URL: https://avocdo-israel-b3443f6c.zappy5.app
+URL: https://example.com
 Description: An online sales website for a content creation course, aimed at teaching people how to create digital content. The business focuses on education in the digital 
 
 קורס יצירת תוכן למתחילים — avocdo israel
@@ -776,7 +776,7 @@ Description: An online sales website for a content creation course, aimed at tea
 
 ## מדיניות פרטיות
 
-URL: https://avocdo-israel-b3443f6c.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1024,7 +1024,7 @@ avocdo israel ("החברה", "אנו", "שלנו") מחויבת להגן על פ
 
 ## הצהרת נגישות
 
-URL: https://avocdo-israel-b3443f6c.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1281,7 +1281,7 @@ avocdo israel מחויבת להנגיש את השירותים לכלל הציב�
 
 ## תנאי שימוש
 
-URL: https://avocdo-israel-b3443f6c.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
