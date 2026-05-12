@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://example.com
+https://avocdo-israel.zappy5.app
 An online sales website for a content creation course, aimed at teaching people how to create digital content. The business focuses on education in the digital 
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://avocdo-israel.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://avocdo-israel.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://avocdo-israel.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -31,8 +31,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://avocdo-israel.zappy5.app
+- Endpoint: https://avocdo-israel.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -64,6 +64,6 @@ An online sales website for a content creation course, aimed at teaching people 
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://avocdo-israel.zappy5.app/sitemap.xml
+- Robots: https://avocdo-israel.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://avocdo-israel.zappy5.app/llms-full.txt
